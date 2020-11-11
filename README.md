@@ -1,7 +1,6 @@
-# MIS531
-# Enterprise Data Management
+# Traffic Violation: Estonia
 
-# Executive Summary
+## Executive Summary
 
 After conducting a geospatial analysis on the frequency of speeding violations, it is recommended to increase the number of 2-way cameras in the Harju-Maakond county (Tallinn City). Other areas that have a high number of cameras have witnessed fewer speeding violations. Further, it is recommended to reduce the speed limit in Tallinn from 70km/h to 50km/h during weekends, as this is when the highest number of violations occur. Additionally, it is advised to implement a community policing program in the city of Tallinn due to its high population and significant DUI offenses. Other counties such as Polva have seen a positive impact after implementing such a community program as the number of DUI offenses decreased in these areas over time.
 
